@@ -7,7 +7,7 @@ This project was primarily developed to show proficiency in as many C# concepts 
 Please acknowledge that this project is a tool for playing audio files. It does not include, distribute, or claim ownership of any copyrighted music, sound, or media content. All rights to such content remain with their respective owners. Users are responsible for ensuring they have the necessary rights to any media they play with this software.
 ## How to Use
 #### Startup
-To utilize this application, simply unzip the .zip file, and double-click on the `MediaPlayer.exe` to start the application. Then, click on either "Play", "Add" or "File" -> "Open" or "Open Folder" to add files to your playlist. Then simply click on a file in the playlist box, then click "Play".
+To utilize this application, simply unzip the .zip file, and open the .sln file to open the project through Visual Studios, and then run the C# file to start the application. Then, click on either "Play", "Add" or "File" -> "Open" or "Open Folder" to add files to your playlist. Then simply click on a file in the playlist box, then click "Play".
 #### Autoplay
 Autoplay is a feature found under the settings tab, simply click "Toggle Autoplay" and whenever it says "Autoplay ON" at the top of the window, that means the next file will begin playing right after the current one finishes.
 #### File Types
